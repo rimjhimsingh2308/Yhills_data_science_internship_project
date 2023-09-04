@@ -1,0 +1,5 @@
+Project 1:- To find the Credit defaulters - by Classification Problem
+by data exploration replcae range employment duration and saving balance by median years then by data visualisation compare different data then remove outiers and then by scaling and normalisation Fit different model Regression, Polynomial Regression, SVC, KNN model, Decision Tree Classifier, Bagging, Boosting, Gradient Boost, Random Forest Gradient, Confusion Matrix then by Comparing Model Conclude which model suitable for give data which is not over and under fitting with high accuracy. In this by apply differrent model find credit defaulters
+
+Project 2:- To find strength of the concrete - by Regression Problem
+In this by dropping All duplicate row and outliers . and then by scaling data fit Linear Regression model then for increase accuracy use PolynomialFeatures so that we can get maximum accuracy.
